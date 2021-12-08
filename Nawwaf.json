@@ -1,33 +1,33 @@
 [
     {
       "id": 1,
-      "name": "Bengal",
-      "description" : "Kucing bengal adalah keturunan keempat dari hasil persilangan antara kucing american shorthair dengan kucing asian leopard. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/bengal.png"
+      "name": "Rendang",
+      "description" : "Rendang atau randang (Jawi: رندڠ) adalah masakan daging asli Indonesia yang berasal dari Minangkabau. ",
+      "url": "https://singaporeanmalaysianrecipes.com/wp-content/uploads/2021/02/Beef-rendang.jpg"
     },
      {
       "id": 2,
-      "name": "Britain Shorthair",
-      "description" : "Kucing bulu pendek britania adalah salah satu ras kucing tertua yang nenek moyang dipercayai memiliki hubungan dengan bangsa Romawi yang pernah dahulu menguasai Inggris.  ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/britain%20shorthair.jpg"
+      "name": "Karedok",
+      "description" : "Karedok atau keredok adalah salah satu makanan khas Sunda di Indonesia. ",
+      "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1592316242/h5rgjvfzeiafoflghywk.jpg"
     },
     {
       "id": 3,
-      "name": "Maine Coon",
-      "description" : "Maine coon adalah salah satu ras kucing tertua dan alami yang berasal dari Maine, Amerika Serikat. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/maine%20coon.jpg"
+      "name": "Bika Ambon",
+      "description" : "Bika ambon adalah penganan khas Medan, Indonesia. ",
+      "url": "https://cdn.idntimes.com/content-images/community/2019/06/65209403-2299503430377932-9060810300930841616-n-2c0344a525d21d5851d9f096b3664e09.jpg"
     },
     {
       "id": 4,
-      "name": "Munckhin",
-      "description" : "Kucing munchkin adalah salah satu ras kucing berkaki pendek yang terbentuk karena mutasi genetik alami. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/munchkin.jpg"
+      "name": "Mi Aceh",
+      "description" : "Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. ",
+      "url": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2021/03/Resep-Mie-Aceh.jpg?fit=996%2C1328&ssl=1"
     },
     {
       "id": 5,
-      "name": "Persia",
-      "description" : "Kucing persia adalah ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek.",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/persia.jpg"
+      "name": "Pempek",
+      "description" : "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan.",
+      "url": "https://sweetrip.id/wp-content/uploads/2021/05/170939184_189954586297097_6964096392117527821_n.jpg"
     },
      {
       "id": 6,
