@@ -28,23 +28,4 @@
       "name": "Pempek",
       "description" : "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan.",
       "url": "https://sweetrip.id/wp-content/uploads/2021/05/170939184_189954586297097_6964096392117527821_n.jpg"
-    },
-     {
-      "id": 6,
-      "name": "Ragdoll",
-      "description" : "Ragdoll adalah salah satu ras kucing terbesar di dunia yang telah diakui oleh Guinness World Records. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/ragdoll.png"
-    },
-     {
-      "id": 7,
-      "name": "Siam",
-      "description" : "Kucing siam adalah salah satu ras kucing pertama yang diakui jelas sebagai kucing berjenis oriental. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/siam.jpeg"
-    },
-     {
-      "id": 8,
-      "name": "accusamus beatae ad facilis cum similique qui sunt",
-      "description" : "Kucing sphynx adalah salah satu ras kucing yang memiliki bulu sangat pendek dan sedikit sekali. ",
-      "url": "https://raw.githubusercontent.com/Advanced-Computer-System-Laboratory/acsl-mcs/master/Bab%203%20-%20RecyclerView%20%26%20OnItemClickListener/cats/sphynx.jpg"
     }
-]
